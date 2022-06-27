@@ -19,7 +19,7 @@ export default function RecieveComp({img, name, text, image, isOnline}) {
                     </div>
                 </div>
             </div>
-            {image ? <img style={style.image} src={image} /> : ''}
+            {image ? <img className='w-100' style={style.image} src={image} /> : ''}
     </div>
   )
 }

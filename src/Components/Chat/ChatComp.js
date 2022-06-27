@@ -36,14 +36,14 @@ export default function ChatComp({ image }) {
       type: "received",
       img: "chat1.png",
       name: "Jesigirl70🤎",
-      text: "Hey I'm Bridget",
+      text: "Hey I'm Jesigirl and I build frontend with react js",
       image: 'Rectangle 135.png'
     },
     {
       type: "send",
-      img: "chat1.png",
+      img: "Ellipse 18.png",
       name: "James 😎🤎",
-      text: "Hey I'm Bridget",
+      text: "These are all react re-usuable components",
       isOnline: false,
     },
 
@@ -54,14 +54,15 @@ export default function ChatComp({ image }) {
       name: "Mark 😎😎🤎",
       text: "Hey I'm Mark, I'm new here",
       isOnline: true,
+      image: 'Rectangle 137.png'
     },
 
     ,
     {
       type: "send",
-      img: "chat1.png",
+      img: "Ellipse 18.png",
       name: "James🤎",
-      text: "Hey I'm Bridget",
+      text: "I need this job boss. I promise not to let the company down. ",
       isOnline: true,
     },
   ];

@@ -1,0 +1,39 @@
+.below-nav{
+    /* background-color: red; */
+    display: flex;
+    
+    line-height: 19px;
+  }
+
+.below-nav-inner{
+    width: 50%;
+    padding: 4px;
+    height: 30px;
+    font-size: 16px;
+    padding-left: 10px;
+    /* margin-top: 1px; */
+}
+
+
+.nav-title{
+    font-size: 16px;
+}
+
+.receive-chat-wrap{
+    background-color: #F8F0F0;
+    margin-top: 15px;
+    width: 70%;
+    border-radius: 15px
+}
+
+.sender-chat-wrap{
+    background-color: #27377A33;
+    margin-top: 15px;
+    width: 70%;
+    margin-right: auto;
+    border-radius: 15px
+}
+
+.isOnline{
+    background-color: #34A853;
+}
